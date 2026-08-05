@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About:
 <br>Cybersecurity student passionate about network security, ethical hacking, and secure software development. Continuously learning, building practical skills, and eager to contribute to real-world cybersecurity challenges.
 
 
